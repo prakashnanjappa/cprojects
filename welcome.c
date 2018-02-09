@@ -3,7 +3,7 @@
 int main()
 {
  int x;
- printf("welcome to C language and do ur stuff effectively \n");
+ printf("welcome to C language and do ur stuff effectively \n	");
  return 0;
  }
  
